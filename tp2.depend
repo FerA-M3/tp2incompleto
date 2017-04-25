@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493093356 source:c:\codeblocks\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493092280 c:\codeblocks\tp2\tp2\tp2.h
+
+1493093373 source:c:\codeblocks\tp2\tp2\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
